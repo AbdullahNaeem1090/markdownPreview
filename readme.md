@@ -43,8 +43,6 @@ No installation required! Just open the `index.html` file in any modern web brow
 - List item 3
 ```
 
-## Screenshot
-![Markdown Previewer Screenshot](https://via.placeholder.com/800x400.png?text=Markdown+Previewer+Screenshot)
 
 ## License
 This project is open-source and available under the MIT License.
